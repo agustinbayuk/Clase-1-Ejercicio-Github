@@ -1,11 +1,11 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
 Aguerre Guerisoli, Facundo (187426) -> Usuario Github: 
 Alonso Pintado, Nicolás (153657) -> Usuario Github: nicoalonsop
 Areosa Denevi, Diego Alvaro (194457) -> Usuario Github: dieareosa
-Bayuk Gómez, Agustín Andrés (213116) -> Usuario Github:
+Bayuk Gómez, Agustín Andrés (213116) -> Usuario Github: agustinbayuk
 Berti Ourthe Cabale, Juan Luis (194398) -> Usuario Github:
 Caraballo Manzi, Sebastián Alfredo (200562) -> Usuario Github: sebastiancaraballo
 Comesaña Vidal, Martín (183579) -> Usuario Github: martincomesania
